@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @engMaiGamal
-- 👀 I’m interested in drawing, graphic and programingg
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m eng Mai Gamal.
+- 👀 I’m interested in drawing, graphic and programing.
+- 🌱 I’m currently learning web development.
 <!--- 
 -💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
